@@ -6,7 +6,7 @@ import requests
 
 
 url = "https://jsonplaceholder.typicode.com/users"
-  # Esta es una URL de ejemplo, tú debes poner la real
+  
 
 
 response = requests.get(url)
